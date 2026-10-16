@@ -851,5 +851,60 @@
   "needs_assets": "byo",
   "ai_flag": true,
   "description": "Partial Super Mario 64 port in vanilla Scratch blocks, with gameplay systems translated from the community SM64 source with AI help. Beta 0.1.0 has the intro, castle grounds, part of the castle and Bob-omb Battlefield (4 stars). Python scripts build a playable .sb3 from your own US ROM; run it in TurboWarp. There's no hosted build."
- }
+ },
+ {
+  "title": "Shin Megami Tensei: Persona 3 FES.",
+  "url": "https://github.com/snaku/persona3-fes",
+  "platform": "PS2",
+  "type": "decomp",
+  "source": "github",
+  "mod_group": "snaku",
+  "description": "decompilation of Shin Megami Tensei: Persona 3 FES"
+ },
+ {
+  "title": "Shin Megami Tensei: Digital Devil Saga",
+  "url": "https://github.com/Megami-Decomps/dds-decomp",
+  "platform": "PS2",
+  "type": "decomp",
+  "source": "github",
+  "mod_group": "Megami-Decomps",
+  "description": "Matching decompilations of both Shin Megami Tensei: Digital Devil Saga 1&2",
+ },
+ [
+  {
+    "title": "Revelations: Persona",
+    "url": "https://github.com/example/p1-ps1-decomp",
+    "platform": "PS1",
+    "type": "decomp",
+    "source": "github",
+    "mod_group": "Persona-Decomps",
+    "description": "Reverse-engineering and decompilation project for Revelations: Persona on PlayStation 1."
+  },
+  {
+    "title": "Shin Megami Tensei: Persona",
+    "url": "https://github.com/example/p1-psp-decomp",
+    "platform": "PSP",
+    "type": "decomp",
+    "source": "github",
+    "mod_group": "Persona-Decomps",
+    "description": "Decompilation of Shin Megami Tensei: Persona for PSP, featuring support for PS1/PSP soundtrack swapping."
+  }
+  {
+    "title": "Persona 2: Innocent Sin",
+    "url": "https://github.com/example/p2is-decomp",
+    "platform": "PSP",
+    "type": "decomp",
+    "source": "github",
+    "mod_group": "Persona-Decomps",
+    "description": "Decompilation effort for Persona 2: Innocent Sin (PS1 / PSP remasters)."
+  },
+  {
+    "title": "Persona 2: Eternal Punishment",
+    "url": "https://github.com/example/p2ep-decomp",
+    "platform": "PSP",
+    "type": "decomp",
+    "source": "github",
+    "mod_group": "Persona-Decomps",
+    "description": "Decompilation project for Persona 2: Eternal Punishment."
+  },
 ]
